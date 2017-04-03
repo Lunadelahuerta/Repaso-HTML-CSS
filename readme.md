@@ -6,10 +6,10 @@ En este proyecto se ve:
   - color
   - background-color
 
-   html
+```html
+
 <html>
    <body>
     <p>Este es el código que se podrá ver e mi archivo leeme</p>
    </body>
-   
-   </html>
+</html>
